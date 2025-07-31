@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi there, I'm Zeshan Khan
 
-<!--
-**ZeshanDev1/ZeshanDev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** passionate about creating modern, responsive, and animated websites. I love combining clean UI with smooth user interactions using **React**, **GSAP**, and **TypeScript**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- **Languages:** HTML, CSS, JavaScript, TypeScript  
+- **Libraries/Frameworks:** React.js, GSAP, Bootstrap  
+- **Tools:** Git, GitHub, VS Code, Chrome DevTools  
+- **Design Skills:** Responsive Web Design, Flexbox, Grid, Animations  
+
+---
+
+### 🚀 Projects I'm Proud Of
+
+Here are some of my personal and practice projects:
+
+- 🌀 GSAP-based Animated Landing Pages  
+- 🍽️ Restaurant Website using HTML/CSS and Bootstrap  
+- 🧾 UI Components and Forms  
+- ⚛️ React Mini Projects (ToDo App, Weather App, Counter, etc.)
+
+> 📌 More projects are being added soon — stay tuned!
+
+---
+
+### 📬 Let's Connect
+
+LinkedIn: https://www.linkedin.com/in/m-zeshan-malik-7a272127a/
+Email:    malikzeshanm123@gmail.com
+
+---
+
+_“Every great website starts with a single `<div>`.”_
