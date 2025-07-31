@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Zeshan Khan
+# 👋 Hi there, I'm Muhammad Zeshan Maik
 
 I'm a **Frontend Developer** passionate about creating modern, responsive, and animated websites. I love combining clean UI with smooth user interactions using **React**, **GSAP**, and **TypeScript**.
 
