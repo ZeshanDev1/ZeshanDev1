@@ -4,13 +4,12 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-website-npc8ku6yh-malikzeshanmz123-3366s-projects.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-zeshan-malik-7a272127a/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZeshanDev1)
 [![Email](https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikzeshanmz123@gmail.com)
 
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+(MERN);Building+Scalable+Web+Applications;Learning+DevOps+and+Cloud;Open+to+Remote+Opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Building+End-to-End+Solutions;Turning+Ideas+Into+Real+Products;Available+for+Remote+Opportunities" />
 </p>
 
 ---
@@ -19,11 +18,11 @@
 
 Hi, I'm **Mohammad Zeeshan Malik**, a passionate **Full Stack Developer (MERN Stack)** from Pakistan 🇵🇰.
 
-- 🔭 Currently building modern and scalable web applications.
-- 🌱 Learning **DevOps, Docker, CI/CD, and Cloud Technologies**.
+- 🔭 Building end-to-end web solutions from idea to deployment.
 - 💻 Experienced with **React, Next.js, Node.js, Express.js, and MongoDB**.
-- 🚀 Passionate about solving real-world problems through technology.
-- 💼 Open to **Full Stack Developer** and **Backend Developer** opportunities.
+- 🚀 Passionate about turning real-world problems into usable products.
+- 🌍 Available for **remote opportunities** worldwide.
+- 💼 Open to **Full Stack Developer** and **Backend Developer** roles.
 - 📫 Reach me at **malikzeshanmz123@gmail.com**.
 
 ---
@@ -35,7 +34,12 @@ Hi, I'm **Mohammad Zeeshan Malik**, a passionate **Full Stack Developer (MERN St
 <td width="50%">
 <h3 align="center">NeoCall - AI Powered Call Centre Replacement</h3>
 <p align="center">
-  <img src="https://github.com/ZeshanDev1/ZeshanDev1/blob/main/assets/NeoCall.png?raw=true" width="100%" alt="NeoCall"/>
+  <a href="https://neo-call-s3yw.vercel.app/" target="_blank">
+    <img src="https://github.com/ZeshanDev1/ZeshanDev1/blob/main/assets/NeoCall.png?raw=true" width="100%" alt="NeoCall"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://neo-call-s3yw.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 <p align="center"><strong>Next.js · Node.js · MongoDB · AI Integration</strong></p>
 <p align="center">AI-powered platform that automates customer support interactions using modern web technologies and intelligent workflows.</p>
@@ -43,7 +47,12 @@ Hi, I'm **Mohammad Zeeshan Malik**, a passionate **Full Stack Developer (MERN St
 <td width="50%">
 <h3 align="center">Blood Donation System</h3>
 <p align="center">
-  <img src="https://github.com/ZeshanDev1/ZeshanDev1/blob/main/assets/QBDS%20Webiste.png?raw=true" width="100%" alt="Blood Donation System"/>
+  <a href="https://blood-donation-system-6ous.vercel.app/" target="_blank">
+    <img src="https://github.com/ZeshanDev1/ZeshanDev1/blob/main/assets/QBDS%20Webiste.png?raw=true" width="100%" alt="Blood Donation System"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://blood-donation-system-6ous.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 <p align="center"><strong>React · Node.js · Express · MongoDB</strong></p>
 <p align="center">A web platform that connects blood donors with recipients and helps manage blood requests efficiently.</p>
@@ -53,7 +62,12 @@ Hi, I'm **Mohammad Zeeshan Malik**, a passionate **Full Stack Developer (MERN St
 <td width="50%">
 <h3 align="center">Savour Restaurant Website</h3>
 <p align="center">
-  <img src="https://github.com/ZeshanDev1/ZeshanDev1/blob/main/assets/savour.png?raw=true" width="100%" alt="Savour Restaurant"/>
+  <a href="https://savour-resturant-website.vercel.app/" target="_blank">
+    <img src="https://github.com/ZeshanDev1/ZeshanDev1/blob/main/assets/savour.png?raw=true" width="100%" alt="Savour Restaurant"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://savour-resturant-website.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 <p align="center"><strong>React · Tailwind CSS · JavaScript</strong></p>
 <p align="center">Responsive restaurant website featuring menu browsing and a modern user interface.</p>
