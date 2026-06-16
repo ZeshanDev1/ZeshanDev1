@@ -42,7 +42,7 @@ Hi, I'm **Mohammad Zeeshan Malik**, a passionate **Full Stack Developer (MERN St
   <a href="https://neo-call-s3yw.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 <p align="center"><strong>Next.js · Node.js · MongoDB · AI Integration</strong></p>
-<p align="center">AI-powered platform that automates customer support interactions using modern web technologies and intelligent workflows.</p>
+<p align="center">AI-powered platform that automates customer support interactions using intelligent workflows.</p>
 </td>
 <td width="50%" valign="top">
 <h3 align="center">Blood Donation System<br/>&nbsp;</h3>
