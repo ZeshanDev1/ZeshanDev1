@@ -31,8 +31,8 @@ Hi, I'm **Mohammad Zeeshan Malik**, a passionate **Full Stack Developer (MERN St
 
 <table>
 <tr>
-<td width="50%" valign="top">
-<h3 align="center">NeoCall - AI Powered Call Centre Replacement</h3>
+<td width="50%" valign="top" align="center">
+<h3 align="center">NeoCall<br/>AI Powered Call Centre<br/>Replacement</h3>
 <p align="center">
   <a href="https://neo-call-s3yw.vercel.app/" target="_blank">
     <img src="https://github.com/ZeshanDev1/ZeshanDev1/blob/main/assets/NeoCall.png?raw=true" width="100%" height="200" alt="NeoCall"/>
@@ -41,11 +41,11 @@ Hi, I'm **Mohammad Zeeshan Malik**, a passionate **Full Stack Developer (MERN St
 <p align="center">
   <a href="https://neo-call-s3yw.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-<p align="center"><strong>Next.js · Node.js · MongoDB · AI Integration</strong></p>
-<p align="center">AI-powered platform that automates customer support interactions using intelligent workflows.</p>
+<p align="center"><strong>Next.js · Node.js · MongoDB<br/>AI Integration</strong></p>
+<p align="center">AI-powered platform that automates<br/>customer support interactions using<br/>intelligent workflows.</p>
 </td>
-<td width="50%" valign="top">
-<h3 align="center">Blood Donation System<br/>&nbsp;</h3>
+<td width="50%" valign="top" align="center">
+<h3 align="center">Blood Donation<br/>System<br/>&nbsp;</h3>
 <p align="center">
   <a href="https://blood-donation-system-6ous.vercel.app/" target="_blank">
     <img src="https://github.com/ZeshanDev1/ZeshanDev1/blob/main/assets/QBDS%20Webiste.png?raw=true" width="100%" height="200" alt="Blood Donation System"/>
@@ -54,13 +54,13 @@ Hi, I'm **Mohammad Zeeshan Malik**, a passionate **Full Stack Developer (MERN St
 <p align="center">
   <a href="https://blood-donation-system-6ous.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-<p align="center"><strong>React · Node.js · Express · MongoDB</strong></p>
-<p align="center">A web platform that connects blood donors with recipients and helps manage blood requests efficiently.</p>
+<p align="center"><strong>React · Node.js · Express<br/>MongoDB</strong></p>
+<p align="center">A web platform that connects blood<br/>donors with recipients and helps manage<br/>blood requests efficiently.</p>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-<h3 align="center">Savour Restaurant Website</h3>
+<td width="50%" valign="top" align="center">
+<h3 align="center">Savour Restaurant<br/>Website<br/>&nbsp;</h3>
 <p align="center">
   <a href="https://savour-resturant-website.vercel.app/" target="_blank">
     <img src="https://github.com/ZeshanDev1/ZeshanDev1/blob/main/assets/savour.png?raw=true" width="100%" height="200" alt="Savour Restaurant"/>
@@ -69,11 +69,11 @@ Hi, I'm **Mohammad Zeeshan Malik**, a passionate **Full Stack Developer (MERN St
 <p align="center">
   <a href="https://savour-resturant-website.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-<p align="center"><strong>React · Tailwind CSS · JavaScript</strong></p>
-<p align="center">Responsive restaurant website featuring menu browsing and a modern user interface.</p>
+<p align="center"><strong>React · Tailwind CSS<br/>JavaScript</strong></p>
+<p align="center">Responsive restaurant website featuring<br/>menu browsing and a modern user<br/>interface.</p>
 </td>
-<td width="50%" valign="top">
-<h3 align="center">Portfolio Website<br/>&nbsp;</h3>
+<td width="50%" valign="top" align="center">
+<h3 align="center">Portfolio<br/>Website<br/>&nbsp;</h3>
 <p align="center">
   <a href="https://portfolio-website-npc8ku6yh-malikzeshanmz123-3366s-projects.vercel.app" target="_blank">
     <img src="https://github.com/ZeshanDev1/ZeshanDev1/blob/main/assets/portfolio.png?raw=true" width="100%" height="200" alt="Portfolio Website"/>
@@ -82,8 +82,8 @@ Hi, I'm **Mohammad Zeeshan Malik**, a passionate **Full Stack Developer (MERN St
 <p align="center">
   <a href="https://portfolio-website-npc8ku6yh-malikzeshanmz123-3366s-projects.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-<p align="center"><strong>Next.js · Tailwind CSS · Framer Motion</strong></p>
-<p align="center">Personal portfolio showcasing projects, skills, and professional experience.</p>
+<p align="center"><strong>Next.js · Tailwind CSS<br/>Framer Motion</strong></p>
+<p align="center">Personal portfolio showcasing projects,<br/>skills, and professional<br/>experience.</p>
 </td>
 </tr>
 </table>
