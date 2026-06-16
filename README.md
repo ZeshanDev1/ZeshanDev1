@@ -127,6 +127,12 @@ Hi, I'm **Mohammad Zeeshan Malik**, a passionate **Full Stack Developer (MERN St
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeshanDev1&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&hide_border=true" />
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ZeshanDev1/ZeshanDev1/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
+</div>
+
 ---
 
 # 🤝 Connect With Me
