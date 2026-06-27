@@ -34,13 +34,13 @@ Hi, I'm **Mohammad Zeeshan Malik**, a passionate **Full Stack Developer (MERN St
 <td width="50%" valign="top" align="center">
 <h3 align="center">NeoCall<br/>AI Powered Call Centre<br/>Replacement</h3>
 <p align="center">
-  <a href="neo-call-ai-powered-call-centre-replacement-d5fu78ads.vercel.app
+  <a href="neo-call-ai-powered-call-centre-replacement-d5fu78ads.vercel.app/
 " target="_blank">
     <img src="https://github.com/ZeshanDev1/ZeshanDev1/blob/main/assets/NeoCall.png?raw=true" width="100%" height="200" alt="NeoCall"/>
   </a>
 </p>
 <p align="center">
-  <a href="neo-call-ai-powered-call-centre-replacement-d5fu78ads.vercel.app
+  <a href="neo-call-ai-powered-call-centre-replacement-d5fu78ads.vercel.app/
 " target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 <p align="center"><strong>Next.js · Node.js · MongoDB<br/>AI Integration</strong></p>
