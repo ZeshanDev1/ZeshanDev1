@@ -40,7 +40,8 @@ Hi, I'm **Mohammad Zeeshan Malik**, a passionate **Full Stack Developer (MERN St
   </a>
 </p>
 <p align="center">
-  <a href="https://neo-call-s3yw.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="neo-call-ai-powered-call-centre-replacement-d5fu78ads.vercel.app
+" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 <p align="center"><strong>Next.js · Node.js · MongoDB<br/>AI Integration</strong></p>
 <p align="center">AI-powered platform that automates<br/>customer support interactions using<br/>intelligent workflows.</p>
