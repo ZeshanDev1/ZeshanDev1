@@ -35,12 +35,12 @@ Hi, I'm **Mohammad Zeeshan Malik**, a passionate **Full Stack Developer (MERN St
 <td width="50%" valign="top" align="center">
 <h3 align="center">Blood Donation<br/>System<br/>&nbsp;</h3>
 <p align="center">
-  <a href="https://blood-donation-system-6ous.vercel.app/" target="_blank">
+  <a href="https://qimsblooddonorsociety.com/" target="_blank">
     <img src="https://github.com/ZeshanDev1/ZeshanDev1/blob/main/assets/QBDS%20Webiste.png?raw=true" width="100%" height="200" alt="Blood Donation System"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://blood-donation-system-6ous.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://qimsblooddonorsociety.com/" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 <p align="center"><strong>React · Node.js · Express<br/>MongoDB</strong></p>
 <p align="center">A web platform that connects blood<br/>donors with recipients and helps manage<br/>blood requests efficiently.</p>
