@@ -138,16 +138,29 @@ Hi, I'm **Mohammad Zeeshan Malik**, a passionate **Full Stack Developer (MERN St
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeshanDev1&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=true&count_private=true" height="165" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeshanDev1&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=ZeshanDev1&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=true&count_private=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeshanDev1&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide_border=true" height="165" />
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZeshanDev1/ZeshanDev1/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution grid snake animation" />
+
+<img src="https://streak-stats.demolab.com?user=ZeshanDev1&theme=github-dark-blue&hide_border=true" />
+
 </div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ZeshanDev1/ZeshanDev1/output/github-contribution-grid-snake-dark.svg" alt="github contribution grid snake animation" />
+
+</div>
+
 # 🤝 Connect With Me
 
 <p align="center">
