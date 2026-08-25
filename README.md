@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Mohammad%20Zeeshan%20Malik&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20MERN%20Stack%20Developer&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-website-npc8ku6yh-malikzeshanmz123-3366s-projects.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-zeshan-malik-7a272127a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-zeeshan-malik-7a272127a)
 [![Email](https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikzeshanmz123@gmail.com)
 
 </div>
@@ -160,7 +160,7 @@ Hi, I'm **Mohammad Zeeshan Malik**, a passionate **Full Stack Developer (MERN St
 
 <p align="center">
 <a href="https://github.com/ZeshanDev1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/m-zeshan-malik-7a272127a/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/m-zeeshan-malik-7a272127a/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:malikzeshanmz123@gmail.com"><img src="https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
