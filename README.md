@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-website-npc8ku6yh-malikzeshanmz123-3366s-projects.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-zeeshan-malik-7a272127a/)
-[![Email](https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malikzeshanmz123@gmail.com)
+[![Email](https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=malikzeshanmz123@gmail.com)
 
 </div>
 
