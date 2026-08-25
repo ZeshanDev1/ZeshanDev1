@@ -161,7 +161,7 @@ Hi, I'm **Mohammad Zeeshan Malik**, a passionate **Full Stack Developer (MERN St
 <p align="center">
 <a href="https://github.com/ZeshanDev1"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/mohammad-zeeshan-malik-7a272127a/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:malikzeshanmz123@gmail.com"><img src="https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=malikzeshanmz123@gmail.com"><img src="https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer)
